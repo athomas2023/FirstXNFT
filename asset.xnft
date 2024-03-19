@@ -2,14 +2,14 @@
         {
               "name": "cube",
               "description": "",
-              "creator": "andrew",
+              "creator": "Andrew",
               "digitalSignatureFile": "signature/digital_signature.hex",
               "modelFile": "assets/cube", 
               "ownershipHistory": 
             [
              {
-                 "date": "2024-02-29 16:56:44",
-                    "owner": "andrew"
+                 "date": "2024-03-18 22:27:24",
+                    "owner": "Andrew"
                 }
              ]
         }
